@@ -3,7 +3,7 @@ package main
 import (
 	sap_api_caller "sap-api-integrations-xxxxxxxx-reads/SAP_API_Caller"
 	sap_api_input_reader "sap-api-integrations-xxxxxxxx-reads/SAP_API_Input_Reader"
-	"sap-api-integrations-product-master-reads/config"
+	"sap-api-integrations-xxxxxxxx-reads/config"
 
 	"github.com/latonaio/golang-logging-library-for-sap/logger"
 	sap_api_get_header_setup "github.com/latonaio/sap-api-request-client-header-setup"
